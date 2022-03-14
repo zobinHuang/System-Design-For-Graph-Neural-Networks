@@ -1,9 +1,12 @@
 # Awesome-Graph-Neural-Networks
-This is the repo to collect latest materials of GNN, welcome to contribute!
+This is the repo to collect latest materials of GNN, mainly focus on system context. Welcome to contribute!
 
 ## Talks
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
+
+## Survey
+* [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 
 ## Model
 <div align="center"><h3>Graph Convolutional Network (GCN)</h3></div>
