@@ -3,7 +3,11 @@ This is the repo to collect latest materials of GNN, welcome to contribute!
 
 ## Talks
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
-* [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0)
+* [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
+
+## Training
+* [NIPS'17] [Inductive Representation Learning on Large Graphs](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) (GraphSAGE)
+* [KDD'18] [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890) (PinSAGE)
 
 ## System Design (Need to be further organized)
 * [OSDI'21] [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads](https://www.usenix.org/conference/osdi21/presentation/thorpe)
