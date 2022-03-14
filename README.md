@@ -5,7 +5,8 @@ This is the repo to collect latest materials of GNN, welcome to contribute!
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
 
-## Training
+## Model
+* [ICLR'17] [Semi-supervised classification with graphconvolutional networks](https://arxiv.org/pdf/1609.02907.pdf)
 * [NIPS'17] [Inductive Representation Learning on Large Graphs](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) (GraphSAGE)
 * [KDD'18] [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890) (PinSAGE)
 
@@ -22,3 +23,6 @@ This is the repo to collect latest materials of GNN, welcome to contribute!
 * [EuroSys'21] [Seastar: vertex-centric programming for graph neural networks](https://dl.acm.org/doi/10.1145/3447786.3456247)
 * [EuroSys'21] [Tesseract: distributed, general graph pattern mining on evolving graphs](https://dl.acm.org/doi/10.1145/3447786.3456253)
 * [NSDI'21] [GAIA: A System for Interactive Analysis on Distributed Graphs Using a High-Level Language](https://www.usenix.org/conference/nsdi21/presentation/qian-zhengping)
+
+## Software Library
+* [Deep Graph Library](https://github.com/dmlc/dgl)
