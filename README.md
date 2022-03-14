@@ -45,6 +45,7 @@ This is the repo to collect latest materials of GNN, welcome to contribute!
 
 ## Underlying System Design
 * [OSDI'16] [Tensorflow: A system forlarge-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+* [OSDI'14] [Scaling Distributed Machine Learning  with the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu)
 
 ## Software Library
 * [Deep Graph Library](https://github.com/dmlc/dgl)
