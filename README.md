@@ -4,7 +4,11 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 ## Talks
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
-* [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
+* (In Chinsese) [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
+
+## Blogs
+* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2 2021
+* [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2 2021
 
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
