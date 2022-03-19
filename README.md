@@ -4,7 +4,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 ## Talks
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
-* (In Chinsese) [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
+* [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
 
 ## Blogs
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2 2021
@@ -37,9 +37,9 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [NIPS'17] [Inductive Representation Learning on Large Graphs](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) (GraphSAGE)
 
 ## System Design (Need to be further organized)
-* [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Blog from ZobinHuang (Chinese)]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html) 
+* [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html) 
+* [OSDI'21] GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs [[Paper]](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) [[Presentation]](https://www.youtube.com/watch?v=K8Q7Dgko0Gs) [[Repo]](https://github.com/YukeWang96/OSDI21_AE) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_OSDI_21_GNNAdvisor/index.html)
 * [OSDI'21] [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads](https://www.usenix.org/conference/osdi21/presentation/thorpe)
-* [OSDI'21] [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke)
 * [OSDI'21] [Marius: Learning Massive Graph Embeddings on a Single Machine](https://www.usenix.org/conference/osdi21/presentation/mohoney)
 * [OSDI'21] [P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/conference/osdi21/presentation/gandhi)
 * [EuroSys'21] [Tripoline: generalized incremental graph processing via graph triangle inequality](https://dl.acm.org/doi/10.1145/3447786.3456226)
