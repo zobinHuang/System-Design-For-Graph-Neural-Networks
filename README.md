@@ -19,6 +19,10 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [ICLR'17] [Semi-supervised classification with graphconvolutional networks](https://arxiv.org/pdf/1609.02907.pdf)
 * [KDD'18] [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890) (PinSAGE)
 
+<div align="center"><h3>Graph Isomorphism Network (GIN)</h3></div>
+
+* [ICLR'19] [How powerful are graph neural networks?](https://arxiv.org/abs/1810.00826)
+
 <div align="center"><h3>Graph Recurrent Neural Network (GRN)</h3></div>
 
 * To be added
@@ -26,7 +30,6 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 <div align="center"><h3>Graph Attenttion Network (GAT)</h3></div>
 
 * To be added
-
 
 <div align="center"><h3>Message-passing Neural Network (MPNN)</h3></div>
 
