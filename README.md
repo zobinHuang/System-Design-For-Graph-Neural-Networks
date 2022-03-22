@@ -34,9 +34,6 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 
 * To be added
 
-<div align="center"><h3>Message-passing Neural Network (MPNN)</h3></div>
-
-* To be added
 
 <div align="center"><h3>Unclassified</h3></div>
 
@@ -53,7 +50,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
  
 <div align="center"><h3>Matrix Factorization</h3></div>
 
-* To be added
+* [WWW'18] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [[Paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
 <div align="center"><h3>Random Walk</h3></div>
 
