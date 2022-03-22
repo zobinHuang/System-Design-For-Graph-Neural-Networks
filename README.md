@@ -50,11 +50,12 @@ Network Embedding is one of the tasks that GNN is able to run through.
  
 <div align="center"><h3>Matrix Factorization</h3></div>
 
-* [WWW'18] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [[Paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
+
+* To be added
 
 <div align="center"><h3>Random Walk</h3></div>
 
-* To be added
+* [WWW'18] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [[Paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
 ## System Design (Need to be further organized)
 * [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html) 
