@@ -18,6 +18,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 
 * [ICLR'17] [Semi-supervised classification with graphconvolutional networks](https://arxiv.org/pdf/1609.02907.pdf)
 * [KDD'18] [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890) (PinSAGE)
+* [NIPS'17] [Inductive Representation Learning on Large Graphs](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) (GraphSAGE)
 
 <div align="center"><h3>Graph Isomorphism Network (GIN)</h3></div>
 
@@ -36,8 +37,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * To be added
 
 <div align="center"><h3>Unclassified</h3></div>
-
-* [NIPS'17] [Inductive Representation Learning on Large Graphs](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) (GraphSAGE)
+* None yet
 
 ## System Design (Need to be further organized)
 * [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html) 
