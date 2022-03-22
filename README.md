@@ -13,7 +13,9 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 
-## Model
+
+
+## GNN Model
 <div align="center"><h3>Graph Convolutional Network (GCN)</h3></div>
 
 * [ICLR'17] [Semi-supervised classification with graphconvolutional networks](https://arxiv.org/pdf/1609.02907.pdf)
@@ -37,7 +39,25 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * To be added
 
 <div align="center"><h3>Unclassified</h3></div>
+
 * None yet
+
+
+## Network Embedding / Graph Embedding / Network Representation Learning
+ 
+With preserved origin information of vertexes and graph structure, **Network Embedding** focuses on representing each vertex as low-dimension vectors, while **GNN** is built within an end-to-end manner which takes in Graph Structure and Vertex/Edge Features to provides multiple machine learning task (e.g. edge prediction, graph classification). 
+
+GNN is one of the methods to conduct Network Embedding, there're others including Matrix Factorization and Random Walk.
+
+Network Embedding is one of the tasks that GNN is able to run through.
+ 
+<div align="center"><h3>Matrix Factorization</h3></div>
+
+* To be added
+
+<div align="center"><h3>Random Walk</h3></div>
+
+* To be added
 
 ## System Design (Need to be further organized)
 * [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html) 
