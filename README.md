@@ -57,6 +57,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
 
 * [WWW'18] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [[Paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 * [KDD'16] node2vec: Scalable Feature Learning for Networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/2939672.2939754)
+* [KDD'14] Deep-walk: Online learning of social representations [[Paper]](https://dl.acm.org/doi/abs/10.1145/2623330.2623732)
 
 ## System Design (Need to be further organized) 
 * [PPoPP'22] Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs [[Paper]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/37/POSTER-Rethinking-Graph-Data-Placement-for-Graph-Neural-Network-Training-on-Multiple)
