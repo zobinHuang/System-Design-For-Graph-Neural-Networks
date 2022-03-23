@@ -77,12 +77,14 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [EuroSys'21] [Tesseract: distributed, general graph pattern mining on evolving graphs](https://dl.acm.org/doi/10.1145/3447786.3456253)
 * [NSDI'21] [GAIA: A System for Interactive Analysis on Distributed Graphs Using a High-Level Language](https://www.usenix.org/conference/nsdi21/presentation/qian-zhengping)
 * [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://zobinhuang.github.io/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html)
+* [PPoPP'16] Gunrock: A High-Performance GraphProcessing Library on the GPU [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145) [[Repo]](https://github.com/gunrock/gunrock)
 
 ## Underlying System Design
 * [OSDI'16] [Tensorflow: A system forlarge-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * [OSDI'14] [Scaling Distributed Machine Learning  with the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu)
 
-## Software Library
+## Open Source System
 * Deep Graph Library (DGL) [[Website]](https://www.dgl.ai/) [[Paper]](https://arxiv.org/abs/1909.01315) [[Repo]](https://github.com/dmlc/dgl)
 * PyG (PyTorch Geometric) [[Repo]](https://github.com/pyg-team/pytorch_geometric) [[Paper]](https://arxiv.org/abs/1903.02428)
+* Gunrock [[Repo]](https://github.com/gunrock/gunrock) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145)
 * SNAP (Stanford Network Analysis Platform) [[Website]](http://snap.stanford.edu/snap/index.html) [[Repo]](https://github.com/snap-stanford/snap)
