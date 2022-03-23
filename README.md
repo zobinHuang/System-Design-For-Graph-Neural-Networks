@@ -32,7 +32,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 
 <div align="center"><h3>Graph Attenttion Network (GAT)</h3></div>
 
-* To be added
+* [ICLR'18] Graph Attention Networks [[Paper]](https://arxiv.org/abs/1710.10903)
 
 
 <div align="center"><h3>Unclassified</h3></div>
