@@ -62,7 +62,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [PPoPP'22] Accelerating Quantized Graph Neural Networks via GPU Tensor Core [[Papers]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/10/QGTC-Accelerating-Quantized-Graph-Neural-Networks-via-GPU-Tensor-Core)
 * [PPoPP'22] Scaling Graph Traversal to 281 Trillion Edges with 40 Million Cores [[Paper]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/5/Scaling-Graph-Traversal-to-281-Trillion-Edges-with-40-Million-Cores)
 * [PPoPP'21] Understanding and Bridging the Gaps in CurrentGNN Performance Optimizations [[Paper]](https://dl.acm.org/doi/10.1145/3437801.3441585)
-* [OSDI'21] GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs [[Paper]](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) [[Presentation]](https://www.youtube.com/watch?v=K8Q7Dgko0Gs) [[Repo]](https://github.com/YukeWang96/OSDI21_AE) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_OSDI_21_GNNAdvisor/index.html)
+* [OSDI'21] GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs [[Paper]](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) [[Presentation]](https://www.youtube.com/watch?v=K8Q7Dgko0Gs) [[Repo]](https://github.com/YukeWang96/OSDI21_AE) [[Chinese Blog from ZobinHuang]](https://zobinhuang.github.io/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_OSDI_21_GNNAdvisor/index.html)
 * [OSDI'21] [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads](https://www.usenix.org/conference/osdi21/presentation/thorpe)
 * [OSDI'21] [Marius: Learning Massive Graph Embeddings on a Single Machine](https://www.usenix.org/conference/osdi21/presentation/mohoney)
 * [OSDI'21] [P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/conference/osdi21/presentation/gandhi)
@@ -74,7 +74,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [EuroSys'21] [Seastar: vertex-centric programming for graph neural networks](https://dl.acm.org/doi/10.1145/3447786.3456247)
 * [EuroSys'21] [Tesseract: distributed, general graph pattern mining on evolving graphs](https://dl.acm.org/doi/10.1145/3447786.3456253)
 * [NSDI'21] [GAIA: A System for Interactive Analysis on Distributed Graphs Using a High-Level Language](https://www.usenix.org/conference/nsdi21/presentation/qian-zhengping)
-* [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://www.zobinhuang.com:10443/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html)
+* [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://zobinhuang.github.io/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html)
 
 ## Underlying System Design
 * [OSDI'16] [Tensorflow: A system forlarge-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
