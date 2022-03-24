@@ -12,6 +12,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
+* [A Comprehensive Survey on Graph NeuralNetworks](https://arxiv.org/pdf/1901.00596.pdf)
 
 
 
