@@ -5,7 +5,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) - TensorFlow, Jun 18, 2021
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
 * [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
-* [Machine Learning with Graphs (CS224W)](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [Lecture Notes](https://snap-stanford.github.io/cs224w-notes/) - Standford, Apr 14, 2021 
+* [Machine Learning with Graphs (CS224W)](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [[Lecture Notes]](https://snap-stanford.github.io/cs224w-notes/) - Standford, Apr 14, 2021 
 ## Blogs
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2 2021
 * [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2 2021
@@ -60,7 +60,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [KDD'16] node2vec: Scalable Feature Learning for Networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/2939672.2939754)
 * [KDD'14] Deep-walk: Online learning of social representations [[Paper]](https://dl.acm.org/doi/abs/10.1145/2623330.2623732)
 
-## System Design (Need to be further organized) 
+## GNN System Design (Need to be further organized) 
 * [PPoPP'22] Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs [[Paper]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/37/POSTER-Rethinking-Graph-Data-Placement-for-Graph-Neural-Network-Training-on-Multiple)
 * [PPoPP'22] Accelerating Quantized Graph Neural Networks via GPU Tensor Core [[Papers]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/10/QGTC-Accelerating-Quantized-Graph-Neural-Networks-via-GPU-Tensor-Core)
 * [PPoPP'22] Scaling Graph Traversal to 281 Trillion Edges with 40 Million Cores [[Paper]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/5/Scaling-Graph-Traversal-to-281-Trillion-Edges-with-40-Million-Cores)
@@ -78,7 +78,13 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [EuroSys'21] [Tesseract: distributed, general graph pattern mining on evolving graphs](https://dl.acm.org/doi/10.1145/3447786.3456253)
 * [NSDI'21] [GAIA: A System for Interactive Analysis on Distributed Graphs Using a High-Level Language](https://www.usenix.org/conference/nsdi21/presentation/qian-zhengping)
 * [ATC'19] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma) [[Presentation]](https://www.youtube.com/watch?v=avAiAy6VX4M) [[Chinese Blog from ZobinHuang]](https://zobinhuang.github.io/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_ATC_19_NeuGraph/index.html)
-* [PPoPP'16] Gunrock: A High-Performance GraphProcessing Library on the GPU [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145) [[Repo]](https://github.com/gunrock/gunrock)
+
+## Traditional Graph Processing System Design
+* [HPDC'14] Cusha:  vertex-centric graph pro-cessing on gpus [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600212.2600227) [[Repo]](https://github.com/farkhor/CuSha)
+* [SC'15] Enterprise: Breadth-First Graph Traversal on GPUs  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2807591.2807594) [[Repo]](https://github.com/iHeartGraph/Enterprise)
+* [ATC'19] SIMD-X: Programming and Processing of Graph Algorithms on GPUs [[Paper]](https://www.usenix.org/system/files/atc19-liu-hang.pdf) [[Repo]](https://github.com/asherliu/simd-x)
+* [ASPLOS'18] Tigr: Transforming Irregular Graphs forGPU-Friendly Graph Processing [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3296957.3173180) [[Repo]](https://github.com/AutomataLab/Tigr)
+* [PPoPP'16] Gunrock: A High-Performance Graph Processing Library on the GPU [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145) [[Repo]](https://github.com/gunrock/gunrock)
 
 ## Underlying System Design
 * [OSDI'16] [Tensorflow: A system forlarge-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
