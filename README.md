@@ -11,6 +11,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2, 2021
 * [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2, 2021
 * [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471) - Johnny Richards, Apr.3, 2017
+* [图嵌入 (Graph Embedding) 和图神经网络 (Graph Neural Network)](https://leovan.me/cn/2020/04/graph-embedding-and-gnn) - 范叶亮, Apr.11, 2020
 
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
