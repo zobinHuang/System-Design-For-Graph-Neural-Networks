@@ -10,7 +10,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 ## Blogs
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2, 2021
 * [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2, 2021
-* [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471) - Johnny Richards, Apr.3, 2021
+* [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471) - Johnny Richards, Apr.3, 2017
 
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
@@ -98,3 +98,6 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * PyG (PyTorch Geometric) [[Repo]](https://github.com/pyg-team/pytorch_geometric) [[Paper]](https://arxiv.org/abs/1903.02428)
 * Gunrock [[Repo]](https://github.com/gunrock/gunrock) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145)
 * SNAP (Stanford Network Analysis Platform) [[Website]](http://snap.stanford.edu/snap/index.html) [[Repo]](https://github.com/snap-stanford/snap)
+
+## Backgroud & Related Knowledge
+* [拉普拉斯矩阵与拉普拉斯算子的关系](https://zhuanlan.zhihu.com/p/85287578) - superbrother, Nov.13, 2021
