@@ -6,9 +6,11 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0) - Microsoft, May 9, 2020
 * [零基础多图详解图神经网络（GNN/GCN）【论文精读】](https://www.bilibili.com/video/BV1iT4y1d7zP/) - Mu Li, Nov.04 2021
 * [Machine Learning with Graphs (CS224W)](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [[Lecture Notes]](https://snap-stanford.github.io/cs224w-notes/) - Standford, Apr 14, 2021 
+
 ## Blogs
-* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2 2021
-* [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2 2021
+* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) - Distill, Sept.2, 2021
+* [Understanding Convolutions on Graphs](https://di]still.pub/2021/understanding-gnns/) - Distill, Sept.2, 2021
+* [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471) - Johnny Richards, Apr.3, 2021
 
 ## Survey
 * [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
@@ -59,6 +61,7 @@ Network Embedding is one of the tasks that GNN is able to run through.
 * [WWW'18] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [[Paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 * [KDD'16] node2vec: Scalable Feature Learning for Networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/2939672.2939754)
 * [KDD'14] Deep-walk: Online learning of social representations [[Paper]](https://dl.acm.org/doi/abs/10.1145/2623330.2623732)
+* [Chinese Blog] [[NLP] 秒懂词向量Word2vec的本质](https://zhuanlan.zhihu.com/p/26306795)
 
 ## GNN System Design (Need to be further organized) 
 * [PPoPP'22] Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs [[Paper]](https://ppopp22.sigplan.org/details/PPoPP-2022-main-conference/37/POSTER-Rethinking-Graph-Data-Placement-for-Graph-Neural-Network-Training-on-Multiple)
