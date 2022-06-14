@@ -31,12 +31,14 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [OSDI'12] PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs [[Paper]](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
 * [SIGMOD'10] Pregel: A System for Large-Scale Graph Processing [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1807167.1807184)
 
-
 ### Open Source System
 * Deep Graph Library (DGL) [[Website]](https://www.dgl.ai/) [[Paper]](https://arxiv.org/abs/1909.01315) [[Repo]](https://github.com/dmlc/dgl)
 * PyG (PyTorch Geometric) [[Repo]](https://github.com/pyg-team/pytorch_geometric) [[Paper]](https://arxiv.org/abs/1903.02428)
 * Gunrock [[Repo]](https://github.com/gunrock/gunrock) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2851141.2851145)
 * SNAP (Stanford Network Analysis Platform) [[Website]](http://snap.stanford.edu/snap/index.html) [[Repo]](https://github.com/snap-stanford/snap)
+
+## Open Source Dataset
+* Open Graph Benchmark [[Website]](https://ogb.stanford.edu/)
 
 <div align="center"><h1>Algorithms</h1></div>
 
