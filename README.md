@@ -6,9 +6,9 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 ## GNN System Design (Need to be further organized) 
 
 ### Distributed Sys Design
-* [KDD'22] Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs [Paper](https://assets.amazon.science/8e/01/c90c5c894771a5de766cbbba2b7e/distributed-hybrid-cpu-and-gpu-training-for-graph-neural-networks-on-billion-scale-heterogeneous-graphs.pdf)
-* [MLSys'22] Sequential aggregation and rematerialization: Distributed full-batch training of graph neural networks on large graphs [Paper](https://proceedings.mlsys.org/paper/2022/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf)
-* [KDD'21] Global Neighbor Sampling for Mixed CPU-GPU Training onGiant Graphs [[Papers]](https://arxiv.org/pdf/2106.06150.pdf)
+* [KDD'22] Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs [[Paper]](https://assets.amazon.science/8e/01/c90c5c894771a5de766cbbba2b7e/distributed-hybrid-cpu-and-gpu-training-for-graph-neural-networks-on-billion-scale-heterogeneous-graphs.pdf)
+* [MLSys'22] Sequential aggregation and rematerialization: Distributed full-batch training of graph neural networks on large graphs [[Paper]](https://proceedings.mlsys.org/paper/2022/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf)
+* [KDD'21] Global Neighbor Sampling for Mixed CPU-GPU Training onGiant Graphs [[Paper]](https://arxiv.org/pdf/2106.06150.pdf)
 * [OSDI'21] P3: Distributed Deep Graph Learning at Scale [[Paper]](https://www.usenix.org/conference/osdi21/presentation/gandhi)
 * [OSDI'21] Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads [[Paper]](https://www.usenix.org/conference/osdi21/presentation/thorpe)
 * [NSDI'21] GAIA: A System for Interactive Analysis on Distributed Graphs Using a High-Level Language [[Paper]](https://www.usenix.org/conference/nsdi21/presentation/qian-zhengping)
