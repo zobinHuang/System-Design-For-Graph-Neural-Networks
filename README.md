@@ -26,7 +26,7 @@ This is the repo to collect latest materials of GNN, mainly focus on system cont
 * [OSDI'21] GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs [[Paper]](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) [[Presentation]](https://www.youtube.com/watch?v=K8Q7Dgko0Gs) [[Repo]](https://github.com/YukeWang96/OSDI21_AE) [[Chinese Blog from ZobinHuang]](https://zobinhuang.github.io/sec_learning/Tech_Cloud_Network/Graph_Neural_Network_System_OSDI_21_GNNAdvisor/index.html)
 * [OSDI'21] Marius: Learning Massive Graph Embeddings on a Single Machine [[Paper]](https://www.usenix.org/conference/osdi21/presentation/mohoney) [[Website]](https://marius-project.org/) [[Repo]](https://github.com/marius-team/marius)
 * [VLDB'21] Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture [[Paper]](https://arxiv.org/pdf/2103.03330.pdf)
-* [EuroSys'21] Accelerating graph sampling for graph machine learning using GPUs [[Paper]](https://dl.acm.org/doi/10.1145/3447786.3456244)
+* [EuroSys'21] Accelerating graph sampling for graph machine learning using GPUs [[Paper]](https://dl.acm.org/doi/10.1145/3447786.3456244) [[Repo]](https://github.com/plasma-umass/NextDoor)
 * [EuroSys'21] Seastar: vertex-centric programming for graph neural networks [[Paper]](https://dl.acm.org/doi/10.1145/3447786.3456247)
 * [MLSys'20] Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc [[Paper]](https://proceedings.mlsys.org/paper/2020/file/fe9fc289c3ff0af142b6d3bead98a923-Paper.pdf)
 * [VLDB'20] G3: When Graph Neural Networks Meet Parallel GraphProcessing Systems on GPUs [[Paper]](https://dl.acm.org/doi/pdf/10.14778/3415478.3415482)
